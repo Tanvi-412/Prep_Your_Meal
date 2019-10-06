@@ -47,7 +47,9 @@ passport: to implement google and facebook login and authentication
 --3-- Install node modules  
   --3.1-- Make sure you are running the latest version of node.js (^10) by running node --version on your command prompt    
   --3.2-- In your command prompt/terminal change directory to the root directory of the project ../Prep_Your_Meal/  
-  --3.3-- Run the following command to install all node modules and dependencies: npm i  
+  --3.3-- Run the following command to install all node modules and dependencies for backend: npm i
+  --3.4-- In your command prompt/terminal change directory to ../Prep_Your_Meal/client
+  --3.5-- Run the following command to install all node modules and dependencies for frontend: npm i
   
 --4-- Running Backend and Frontend Servers  
   --4.1-- In your command prompt/terminal change directory to the root directory of the project ../Prep_Your_Meal/  

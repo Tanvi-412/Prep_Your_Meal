@@ -4,6 +4,10 @@ const IngredientSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true
+    },
+    spoon_id: {
+        type: String,
+        required: true
     }
 });
 
