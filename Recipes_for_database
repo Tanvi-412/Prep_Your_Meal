@@ -1,0 +1,963 @@
+{1 item
+"recipes":[10 items
+0:{36 items
+"vegetarian":true
+"vegan":false
+"glutenFree":false
+"dairyFree":false
+"veryHealthy":false
+"cheap":false
+"veryPopular":false
+"sustainable":false
+"weightWatcherSmartPoints":17
+"gaps":"no"
+"lowFodmap":false
+"ketogenic":false
+"whole30":false
+"sourceUrl":"https://www.foodista.com/recipe/JDYXYDJY/wholemeal-cake"
+"spoonacularSourceUrl":"https://spoonacular.com/wholemeal-cake-665303"
+"aggregateLikes":10
+"spoonacularScore":47
+"healthScore":7
+"creditsText":"Foodista.com – The Cooking Encyclopedia Everyone Can Edit"
+"license":"CC BY 3.0"
+"sourceName":"Foodista"
+"pricePerServing":65.1
+"extendedIngredients":[8 items
+0:{13 items
+"id":1124
+"aisle":"Milk, Eggs, Other Dairy"
+"image":"egg-white.jpg"
+"consitency":"solid"
+"name":"egg whites"
+"original":"3 Large egg whites (about 130g or slightly more)"
+"originalString":"3 Large egg whites (about 130g or slightly more)"
+"originalName":"Large egg whites (about 130g or slightly more)"
+"amount":3
+"unit":""
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":3
+"unitShort":""
+"unitLong":""
+}
+"metric":{3 items
+"amount":3
+"unitShort":""
+"unitLong":""
+}
+}
+}
+1:{13 items
+"id":19335
+"aisle":"Baking"
+"image":"sugar-in-bowl.png"
+"consitency":"solid"
+"name":"sugar"
+"original":"60g Sugar"
+"originalString":"60g Sugar"
+"originalName":"Sugar"
+"amount":60
+"unit":"g"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":2.116
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":60
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+2:{13 items
+"id":12120
+"aisle":"Baking"
+"image":"hazelnuts.jpg"
+"consitency":"solid"
+"name":"hazelnuts"
+"original":"90g Ground hazelnut"
+"originalString":"90g Ground hazelnut"
+"originalName":"Ground hazelnut"
+"amount":90
+"unit":"g"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":3.175
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":90
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+3:{13 items
+"id":19334
+"aisle":"Baking"
+"image":"light-brown-sugar.jpg"
+"consitency":"solid"
+"name":"brown sugar"
+"original":"30g Brown sugar"
+"originalString":"30g Brown sugar"
+"originalName":"Brown sugar"
+"amount":30
+"unit":"g"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":1.058
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":30
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+4:{13 items
+"id":20081
+"aisle":"Baking"
+"image":"flour.png"
+"consitency":"solid"
+"name":"plain flour"
+"original":"25g Plain flour"
+"originalString":"25g Plain flour"
+"originalName":"Plain flour"
+"amount":25
+"unit":"g"
+"meta":[1 item
+0:"plain"
+]
+"metaInformation":[1 item
+0:"plain"
+]
+"measures":{2 items
+"us":{3 items
+"amount":0.882
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":25
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+5:{13 items
+"id":20080
+"aisle":"Baking"
+"image":"flour.png"
+"consitency":"solid"
+"name":"wholemeal flour"
+"original":"60g Wholemeal flour"
+"originalString":"60g Wholemeal flour"
+"originalName":"Wholemeal flour"
+"amount":60
+"unit":"g"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":2.116
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":60
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+6:{13 items
+"id":1001
+"aisle":"Milk, Eggs, Other Dairy"
+"image":"butter-sliced.jpg"
+"consitency":"solid"
+"name":"butter"
+"original":"65g Melted butter with 1/2 tsp vanilla extract"
+"originalString":"65g Melted butter with 1/2 tsp vanilla extract"
+"originalName":"Melted butter with 1/2 tsp vanilla extract"
+"amount":65
+"unit":"g"
+"meta":[2 items
+0:"with 1/2 tsp vanilla extract"
+1:"melted"
+]
+"metaInformation":[2 items
+0:"with 1/2 tsp vanilla extract"
+1:"melted"
+]
+"measures":{2 items
+"us":{3 items
+"amount":2.293
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":65
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+7:{13 items
+"id":9021
+"aisle":"Produce"
+"image":"apricot.jpg"
+"consitency":"solid"
+"name":"apricots"
+"original":"20g each Dried apricots and dried cranberries - cut to smaller pieces"
+"originalString":"20g each Dried apricots and dried cranberries - cut to smaller pieces"
+"originalName":"each Dried apricots and dried cranberries - cut to smaller pieces"
+"amount":20
+"unit":"g"
+"meta":[1 item
+0:"dried"
+]
+"metaInformation":[1 item
+0:"dried"
+]
+"measures":{2 items
+"us":{3 items
+"amount":0.705
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":20
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+]
+"id":665303
+"title":"Wholemeal Cake"
+"readyInMinutes":45
+"servings":4
+"image":"https://spoonacular.com/recipeImages/665303-556x370.jpg"
+"imageType":"jpg"
+"cuisines":[0 items
+]
+"dishTypes":[1 item
+0:"dessert"
+]
+"diets":[1 item
+0:"lacto ovo vegetarian"
+]
+"occasions":[0 items
+]
+"winePairing":{3 items
+"pairedWines":[3 items
+0:"cream sherry"
+1:"moscato dasti"
+2:"port"
+]
+"pairingText":"Cream Sherry, Moscato d'Asti, and Port are great choices for Cake. A common wine pairing rule is to make sure your wine is sweeter than your food. Delicate desserts go well with Moscato d'Asti, nutty desserts with cream sherry, and caramel or chocolate desserts pair well with port. The NV Johnson Estate Cream Sherry with a 5 out of 5 star rating seems like a good match. It costs about 19 dollars per bottle."
+"productMatches":[1 item
+0:{9 items
+"id":430626
+"title":"NV Johnson Estate Cream Sherry"
+"description":"Very aromatic with notes of hazelnut, vanilla, and a touch of oak followed by sweet raisins and a touch of yeast. Clean lasting finish. Good now but will reward those allow it to age"". A favorite pre-prandial beverage. Consider it with nuts before dinner as an aperitif, or after dinner with dessert, especially chocolates and fruit-based desserts. Also wonderful on cold afternoons, served with biscotti to dip in ""Italian-style"". ""
+"price":"$19.49"
+"imageUrl":"https://spoonacular.com/productImages/430626-312x231.jpg"
+"averageRating":1
+"ratingCount":2
+"score":0.8571428571428572
+"link":"https://www.amazon.com/Johnson-Estate-Cream-Sherry-750/dp/B00D3GQSRW?tag=spoonacular-20"
+}
+]
+}
+"instructions":"In a large bowl, mix ground hazelnut, brown sugar, plain flour and wholemeal flour together and set aside. Whisk egg whites and sugar at medium high speed till firm and smooth. Use hand to fold one quarter of beaten egg whites to the flour mixture evenly and remaining egg white in two batches. Lastly add in melted butter in two batches and mix well with a rubber spatula follow by the dried apricots and dried cranberries. Pour mixture into a 7 inch (lined) round cake pan and sprinkle more dried apricots and dried cranberries over it. Bake at preheated oven 170C for about 30-35 minutes or until skewer inserted comes out clean. Leave cake to cool in pan for 15 minutes and remove to wire rack to cool down completely."
+"analyzedInstructions":[1 item
+0:{2 items
+"name":""
+"steps":[6 items
+0:{4 items
+"number":1
+"step":"In a large bowl, mix ground hazelnut, brown sugar, plain flour and wholemeal flour together and set aside."
+"ingredients":[4 items
+0:{3 items
+"id":20080
+"name":"whole wheat flour"
+"image":"flour.png"
+}
+1:{3 items
+"id":19334
+"name":"brown sugar"
+"image":"dark-brown-sugar.png"
+}
+2:{3 items
+"id":20081
+"name":"all purpose flour"
+"image":"flour.png"
+}
+3:{3 items
+"id":12120
+"name":"hazelnuts"
+"image":"hazelnuts.jpg"
+}
+]
+"equipment":[1 item
+0:{3 items
+"id":404783
+"name":"bowl"
+"image":"bowl.jpg"
+}
+]
+}
+1:{4 items
+"number":2
+"step":"Whisk egg whites and sugar at medium high speed till firm and smooth."
+"ingredients":[2 items
+0:{3 items
+"id":1124
+"name":"egg whites"
+"image":"egg-white.jpg"
+}
+1:{3 items
+"id":19335
+"name":"sugar"
+"image":"sugar-in-bowl.png"
+}
+]
+"equipment":[1 item
+0:{3 items
+"id":404661
+"name":"whisk"
+"image":"whisk.png"
+}
+]
+}
+2:{4 items
+"number":3
+"step":"Use hand to fold one quarter of beaten egg whites to the flour mixture evenly and remaining egg white in two batches."
+"ingredients":[2 items
+0:{3 items
+"id":1124
+"name":"egg whites"
+"image":"egg-white.jpg"
+}
+1:{3 items
+"id":20081
+"name":"all purpose flour"
+"image":"flour.png"
+}
+]
+"equipment":[0 items
+]
+}
+3:{4 items
+"number":4
+"step":"Lastly add in melted butter in two batches and mix well with a rubber spatula follow by the dried apricots and dried cranberries."
+"ingredients":[1 item
+0:{3 items
+"id":1001
+"name":"butter"
+"image":"butter-sliced.jpg"
+}
+]
+"equipment":[1 item
+0:{3 items
+"id":404642
+"name":"spatula"
+"image":"spatula-or-turner.jpg"
+}
+]
+}
+4:{4 items
+"number":5
+"step":"Pour mixture into a 7 inch (lined) round cake pan and sprinkle more dried apricots and dried cranberries over it."
+"ingredients":[0 items
+]
+"equipment":[1 item
+0:{3 items
+"id":404747
+"name":"cake form"
+"image":"cake-pan.png"
+}
+]
+}
+5:{5 items
+"number":6
+"step":"Bake at preheated oven 170C for about 30-35 minutes or until skewer inserted comes out clean. Leave cake to cool in pan for 15 minutes and remove to wire rack to cool down completely."
+"ingredients":[0 items
+]
+"equipment":[4 items
+0:{3 items
+"id":405900
+"name":"wire rack"
+"image":"wire-rack.jpg"
+}
+1:{3 items
+"id":3065
+"name":"skewers"
+"image":"wooden-skewers.jpg"
+}
+2:{4 items
+"id":404784
+"name":"oven"
+"image":"oven.jpg"
+"temperature":{...}2 items
+}
+3:{3 items
+"id":404645
+"name":"frying pan"
+"image":"pan.png"
+}
+]
+"length":{2 items
+"number":50
+"unit":"minutes"
+}
+}
+]
+}
+]
+}
+1:{37 items
+"vegetarian":true
+"vegan":false
+"glutenFree":false
+"dairyFree":false
+"veryHealthy":false
+"cheap":false
+"veryPopular":true
+"sustainable":false
+"weightWatcherSmartPoints":8
+"gaps":"no"
+"lowFodmap":false
+"ketogenic":false
+"whole30":false
+"preparationMinutes":10
+"cookingMinutes":20
+"sourceUrl":"https://www.bbcgoodfood.com/recipes/2248639/butterscotch-cookies"
+"spoonacularSourceUrl":"https://spoonacular.com/butterscotch-cookies-221999"
+"aggregateLikes":395
+"spoonacularScore":8
+"healthScore":0
+"creditsText":"BBC Good Food"
+"sourceName":"BBC Good Food"
+"pricePerServing":25.2
+"extendedIngredients":[...]6 items
+"id":221999
+"title":"Butterscotch cookies"
+"readyInMinutes":30
+"servings":10
+"image":"https://spoonacular.com/recipeImages/221999-556x370.jpg"
+"imageType":"jpg"
+"cuisines":[0 items
+]
+"dishTypes":[1 item
+0:"dessert"
+]
+"diets":[1 item
+0:"lacto ovo vegetarian"
+]
+"occasions":[0 items
+]
+"winePairing":{3 items
+"pairedWines":[3 items
+0:"cream sherry"
+1:"madeira"
+2:"prosecco"
+]
+"pairingText":"Cookies works really well with Cream Sherry, Madeira, and Prosecco. Sweet bubbly Prosecco doesn't overwhelm simple sugar or shortbread cookies, a sweet cream sherry complements spiced cookies, and madeira's nutty notes match cookies with nuts perfectly. One wine you could try is NV Solera Cream Sherry. It has 4.5 out of 5 stars and a bottle costs about 17 dollars."
+"productMatches":[1 item
+0:{9 items
+"id":428475
+"title":"NV Solera Cream Sherry"
+"description":"The Solera Cream Sherry has a brilliant amber and deep copper hue. With butterscotch and pecan aromas, the sweet salted nut and brown spice aromas carry a complex caramel accent. A sweet entry leads to a rounded, lush, moderately full-bodied palate with a lengthy, flavorful finish."
+"price":"$16.99"
+"imageUrl":"https://spoonacular.com/productImages/428475-312x231.jpg"
+"averageRating":0.9
+"ratingCount":4
+"score":0.823076923076923
+"link":"https://www.amazon.com/NV-Solera-Cream-Sherry-750/dp/B00HSME8OW?tag=spoonacular-20"
+}
+]
+}
+"instructions":"Heat oven to 160C/140C fan/gas 3. In a large bowl, beat together the butter, sugar and golden syrup until smooth. Sift in the flour and mix together, then fold through the puffed rice cereal. Roll into walnut-sized balls and place, well spaced, on a lightly buttered baking sheet. Decorate each ball with a few chocolate chips. Bake for 15-20 mins until golden. Leave on the baking sheet for 1 min before removing to a wire rack to cool."
+"analyzedInstructions":[1 item
+0:{2 items
+"name":""
+"steps":[5 items
+0:{4 items
+"number":1
+"step":"Heat oven to 160C/140C fan/gas"
+"ingredients":[0 items
+]
+"equipment":[1 item
+0:{4 items
+"id":404784
+"name":"oven"
+"image":"oven.jpg"
+"temperature":{2 items
+"number":160
+"unit":"Celsius"
+}
+}
+]
+}
+1:{4 items
+"number":2
+"step":"In a large bowl, beat together the butter, sugar and golden syrup until smooth."
+"ingredients":[1 item
+0:{3 items
+"id":93829
+"name":"golden syrup"
+"image":"corn-syrup.png"
+}
+]
+"equipment":[1 item
+0:{3 items
+"id":404783
+"name":"bowl"
+"image":"bowl.jpg"
+}
+]
+}
+2:{4 items
+"number":3
+"step":"Sift in the flour and mix together, then fold through the puffed rice cereal."
+"ingredients":[1 item
+0:{3 items
+"id":8066
+"name":"puffed rice cereal"
+"image":"rice-crispy-cereal.png"
+}
+]
+"equipment":[0 items
+]
+}
+3:{4 items
+"number":4
+"step":"Roll into walnut-sized balls and place, well spaced, on a lightly buttered baking sheet. Decorate each ball with a few chocolate chips."
+"ingredients":[0 items
+]
+"equipment":[1 item
+0:{3 items
+"id":404727
+"name":"baking sheet"
+"image":"baking-sheet.jpg"
+}
+]
+}
+4:{5 items
+"number":5
+"step":"Bake for 15-20 mins until golden. Leave on the baking sheet for 1 min before removing to a wire rack to cool."
+"ingredients":[0 items
+]
+"equipment":[2 items
+0:{3 items
+"id":404727
+"name":"baking sheet"
+"image":"baking-sheet.jpg"
+}
+1:{3 items
+"id":405900
+"name":"wire rack"
+"image":"wire-rack.jpg"
+}
+]
+"length":{2 items
+"number":21
+"unit":"minutes"
+}
+}
+]
+}
+]
+}
+2:{37 items
+"vegetarian":true
+"vegan":false
+"glutenFree":false
+"dairyFree":false
+"veryHealthy":false
+"cheap":false
+"veryPopular":false
+"sustainable":false
+"weightWatcherSmartPoints":38
+"gaps":"no"
+"lowFodmap":false
+"ketogenic":false
+"whole30":false
+"preparationMinutes":30
+"cookingMinutes":50
+"sourceUrl":"https://www.bbcgoodfood.com/recipes/531670/gooseberry-pie"
+"spoonacularSourceUrl":"https://spoonacular.com/gooseberry-pie-220955"
+"aggregateLikes":59
+"spoonacularScore":60
+"healthScore":10
+"creditsText":"BBC Good Food"
+"sourceName":"BBC Good Food"
+"pricePerServing":162.08
+"extendedIngredients":[7 items
+0:{13 items
+"id":1145
+"aisle":"Milk, Eggs, Other Dairy"
+"image":"butter-sliced.jpg"
+"consitency":"solid"
+"name":"unsalted butter"
+"original":"250g unsalted butter, softened"
+"originalString":"250g unsalted butter, softened"
+"originalName":"unsalted butter, softened"
+"amount":250
+"unit":"g"
+"meta":[2 items
+0:"unsalted"
+1:"softened"
+]
+"metaInformation":[2 items
+0:"unsalted"
+1:"softened"
+]
+"measures":{2 items
+"us":{3 items
+"amount":8.818
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":250
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+1:{13 items
+"id":19336
+"aisle":"Baking"
+"image":"powdered-sugar.jpg"
+"consitency":"solid"
+"name":"icing sugar"
+"original":"140g icing sugar"
+"originalString":"140g icing sugar"
+"originalName":"icing sugar"
+"amount":140
+"unit":"g"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":4.938
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":140
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+2:{13 items
+"id":1125
+"aisle":"Milk, Eggs, Other Dairy"
+"image":"egg-yolk.jpg"
+"consitency":"solid"
+"name":"egg yolks"
+"original":"5 egg yolks"
+"originalString":"5 egg yolks"
+"originalName":"egg yolks"
+"amount":5
+"unit":""
+"meta":[]0 items
+"metaInformation":[]0 items
+"measures":{...}2 items
+}
+3:{13 items
+"id":20081
+"aisle":"Baking"
+"image":"flour.png"
+"consitency":"solid"
+"name":"plain flour"
+"original":"500g plain flour, plus extra for dusting"
+"originalString":"500g plain flour, plus extra for dusting"
+"originalName":"plain flour, plus extra for dusting"
+"amount":500
+"unit":"g"
+"meta":[2 items
+0:"plain"
+1:"for dusting"
+]
+"metaInformation":[2 items
+0:"plain"
+1:"for dusting"
+]
+"measures":{2 items
+"us":{3 items
+"amount":1.102
+"unitShort":"lb"
+"unitLong":"pounds"
+}
+"metric":{3 items
+"amount":500
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+4:{13 items
+"id":9107
+"aisle":"Produce"
+"image":"gooseberries.jpg"
+"consitency":"solid"
+"name":"gooseberries"
+"original":"900g gooseberries"
+"originalString":"900g gooseberries"
+"originalName":"gooseberries"
+"amount":900
+"unit":"g"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":1.984
+"unitShort":"lb"
+"unitLong":"pounds"
+}
+"metric":{3 items
+"amount":900
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+5:{13 items
+"id":19335
+"aisle":"Baking"
+"image":"sugar-in-bowl.png"
+"consitency":"solid"
+"name":"sugar"
+"original":"about 200g 8oz caster sugar, plus extra for sprinkling"
+"originalString":"about 200g 8oz caster sugar, plus extra for sprinkling"
+"originalName":"about 8oz caster sugar, plus extra for sprinkling"
+"amount":200
+"unit":"g"
+"meta":[1 item
+0:"for sprinkling"
+]
+"metaInformation":[1 item
+0:"for sprinkling"
+]
+"measures":{2 items
+"us":{3 items
+"amount":7.055
+"unitShort":"oz"
+"unitLong":"ounces"
+}
+"metric":{3 items
+"amount":200
+"unitShort":"g"
+"unitLong":"grams"
+}
+}
+}
+6:{13 items
+"id":10114057
+"aisle":"Alcoholic Beverages"
+"image":"port.jpg"
+"consitency":"liquid"
+"name":"port"
+"original":"2 tbsp port (optional)"
+"originalString":"2 tbsp port (optional)"
+"originalName":"port (optional)"
+"amount":2
+"unit":"tbsp"
+"meta":[0 items
+]
+"metaInformation":[0 items
+]
+"measures":{2 items
+"us":{3 items
+"amount":2
+"unitShort":"Tbsps"
+"unitLong":"Tbsps"
+}
+"metric":{3 items
+"amount":2
+"unitShort":"Tbsps"
+"unitLong":"Tbsps"
+}
+}
+}
+]
+"id":220955
+"title":"Gooseberry pie"
+"readyInMinutes":120
+"servings":6
+"image":"https://spoonacular.com/recipeImages/220955-556x370.jpg"
+"imageType":"jpg"
+"cuisines":[1 item
+0:"southern"
+]
+"dishTypes":[1 item
+0:"dessert"
+]
+"diets":[1 item
+0:"lacto ovo vegetarian"
+]
+"occasions":[0 items
+]
+"winePairing":{3 items
+"pairedWines":[3 items
+0:"lambrusco dolce"
+1:"late harvest riesling"
+2:"vin santo"
+]
+"pairingText":"Lambrusco Dolce, Late Harvest Riesling, and Vin Santo are my top picks for Pie. These wines are all sweet, which is important since wine should usually be sweeter than the food you're pairing with it. The McFadden Late Harvest Riesling with a 5 out of 5 star rating seems like a good match. It costs about 18 dollars per bottle."
+"productMatches":[1 item
+0:{9 items
+"id":430244
+"title":"McFadden Late Harvest Riesling"
+"description":"Late Harvest and Botrytis-blessed, like Château d'Yquem, this is a sublime experience. Honeyed apricot meets baked apple pie in a glass. Quite simply, this is the best dessert wine you will taste, even at double the price, in your lifetime."
+"price":"$18.0"
+"imageUrl":"https://spoonacular.com/productImages/430244-312x231.jpg"
+"averageRating":1
+"ratingCount":2
+"score":0.8571428571428572
+"link":"https://www.amazon.com/McFadden-Harvest-Riesling-Mendocino-County/dp/B00NP97O6G?tag=spoonacular-20"
+}
+]
+}
+"instructions":"To make the pastry, mix the butter and icing sugar together in a bowl, then tip in 4 egg yolks. Add the flour and mix it all together with your fingers until you get a crumbly texture like damp breadcrumbs. Work in 1-2 tbsp water until the pastry just comes together, then divide it in half and roll it into 2 balls. This will make double the amount you need, so freeze half for another time. Lay the ball you are using on a floured surface, flatten it out with your hands, wrap the dough in cling film and chill for at least 30 mins. For the filling, tip the fruit, sugar and Port, if using, or a splash of water into a saucepan and simmer everything for about 10 mins until the fruit is soft. Taste for sweetness, adding more sugar if you think it needs it. Pour the fruit into a pie dish about 25cm wide and 5cm deep. Heat oven to 190C/170C fan/gas 5. Roll the pastry out on a lightly floured surface so its big enough to make a lid for your pie dish. Cut a thin strip of pastry to stick onto the lip of the pie dish this doesnt have to be one continuous piece. Stick it on with a little water, then moisten the strip with more water and place the pastry lid on top. Press down firmly, trim off any excess pastry and crimp. Make a hole in the middle of the lid, brush the top with the remaining egg yolk and sprinkle over some caster sugar. You should have enough pastry trimmings left over to make some artistic leaves to decorate your pie, if you like. Bake for 30 mins or until the top is golden brown. Leave the pie to relax a little, then serve it with custard or vanilla ice cream."
+"analyzedInstructions":[1 item
+0:{2 items
+"name":""
+"steps":[8 items
+0:{4 items
+"number":1
+"step":"To make the pastry, mix the butter and icing sugar together in a bowl, then tip in 4 egg yolks."
+"ingredients":[...]2 items
+"equipment":[...]1 item
+}
+1:{5 items
+"number":2
+"step":"Add the flour and mix it all together with your fingers until you get a crumbly texture like damp breadcrumbs. Work in 1-2 tbsp water until the pastry just comes together, then divide it in half and roll it into 2 balls. This will make double the amount you need, so freeze half for another time. Lay the ball you are using on a floured surface, flatten it out with your hands, wrap the dough in cling film and chill for at least 30 mins."
+"ingredients":[1 item
+0:{...}3 items
+]
+"equipment":[0 items
+]
+"length":{2 items
+"number":30
+"unit":"minutes"
+}
+}
+2:{5 items
+"number":3
+"step":"For the filling, tip the fruit, sugar and Port, if using, or a splash of water into a saucepan and simmer everything for about 10 mins until the fruit is soft. Taste for sweetness, adding more sugar if you think it needs it."
+"ingredients":[2 items
+0:{...}3 items
+1:{...}3 items
+]
+"equipment":[1 item
+0:{...}3 items
+]
+"length":{2 items
+"number":10
+"unit":"minutes"
+}
+}
+3:{4 items
+"number":4
+"step":"Pour the fruit into a pie dish about 25cm wide and 5cm deep."
+"ingredients":[0 items
+]
+"equipment":[1 item
+0:{3 items
+"id":405915
+"name":"pie form"
+"image":"pie-pan.png"
+}
+]
+}
+4:{4 items
+"number":5
+"step":"Heat oven to 190C/170C fan/gas"
+"ingredients":[0 items
+]
+"equipment":[1 item
+0:{...}4 items
+]
+}
+5:{4 items
+"number":6
+"step":"Roll the pastry out on a lightly floured surface so its big enough to make a lid for your pie dish."
+"ingredients":[0 items
+]
+"equipment":[1 item
+0:{3 items
+"id":405915
+"name":"pie form"
+"image":"pie-pan.png"
+}
+]
+}
+6:{4 items
+"number":7
+"step":"Cut a thin strip of pastry to stick onto the lip of the pie dish this doesnt have to be one continuous piece. Stick it on with a little water, then moisten the strip with more water and place the pastry lid on top. Press down firmly, trim off any excess pastry and crimp. Make a hole in the middle of the lid, brush the top with the remaining egg yolk and sprinkle over some caster sugar. You should have enough pastry trimmings left over to make some artistic leaves to decorate your pie, if you like."
+"ingredients":[1 item
+0:{3 items
+"id":1125
+"name":"egg yolk"
+"image":"egg-yolk.jpg"
+}
+]
+"equipment":[1 item
+0:{3 items
+"id":405915
+"name":"pie form"
+"image":"pie-pan.png"
+}
+]
+}
+7:{5 items
+"number":8
+"step":"Bake for 30 mins or until the top is golden brown. Leave the pie to relax a little, then serve it with custard or vanilla ice cream."
+"ingredients":[0 items
+]
+"equipment":[0 items
+]
+"length":{2 items
+"number":30
+"unit":"minutes"
+}
+}
+]
+}
+]
+}
+
